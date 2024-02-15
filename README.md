@@ -12,8 +12,6 @@ A feature-based folder structure has been implemented to keep things organized.
 A live demo is here.
 
 Next.js
-TanStack Query
-NES.css
 Tailwind CSS
 GraphQL Code Generator
 ESLint
